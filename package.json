@@ -1,6 +1,6 @@
 {
   "name": "prefixcss",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "prefixCss automatically adds vendor-specific prefixes (-moz, -webkit, -ms, and -o) to CSS3 properties that need them. It has no external dependencies.",
   "main": "./lib/prefixcss",
   "scripts": {
