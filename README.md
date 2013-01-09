@@ -13,7 +13,7 @@ Installation
 Usage
 =========
 
-prefixcss test.css > test.prefixed.css
+<pre><code>prefixcss test.css > test.prefixed.css</code></pre>
 
 
 License
